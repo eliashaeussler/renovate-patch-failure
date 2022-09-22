@@ -1,0 +1,13 @@
+diff --git a/src/getallheaders.php b/src/getallheaders.php
+index c7285a5..9ec75a0 100644
+--- a/src/getallheaders.php
++++ b/src/getallheaders.php
+@@ -9,7 +9,7 @@ if (!function_exists('getallheaders')) {
+      */
+     function getallheaders()
+     {
+-        $headers = array();
++        $headers = [];
+ 
+         $copy_server = array(
+             'CONTENT_TYPE'   => 'Content-Type',
