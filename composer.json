@@ -21,7 +21,7 @@
         "sort-packages": true
     },
     "extra": {
-        "composer-patches-exit-on-patch-failure": true,
+        "composer-exit-on-patch-failure": true,
         "patches-file": "composer.patches.json"
     }
 }
