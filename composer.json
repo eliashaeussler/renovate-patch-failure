@@ -11,7 +11,7 @@
         "ralouphie/getallheaders": "^3.0"
     },
     "require-dev": {
-        "ergebnis/composer-normalize": "^2.28"
+        "ergebnis/composer-normalize": "2.28.3"
     },
     "config": {
         "allow-plugins": {
